@@ -1,5 +1,6 @@
 # ReactJS and TypeScript: stopwatch connected to quenes handling tasks
 # Stopwatch
+- in src/app/stopwatch.tsx
 - A visually appealing and intuitive user interface for the stopwatch with the following elements:
   1. Display area for the elapsed time.
     - It should initially display "00s 00" ({{seconds}}s {{milliseconds}}).
@@ -15,6 +16,7 @@
       * Click it to reset all the queues to no tasks.
      
 # Tasks and Queues
+- in src/app/app.tsx
 - Implement a queue to execute tasks within 5 secs.
 - The queue should be able to handle 100 tasks per second.
 
