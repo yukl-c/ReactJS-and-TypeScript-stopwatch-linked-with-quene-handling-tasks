@@ -1,4 +1,4 @@
-# ReactJS and TypeScript: stopwatch connected to quenes handling tasks
+# ReactJS and TypeScript: stopwatch connected to queues handling tasks
 # Stopwatch
 - in src/app/stopwatch.tsx
 - A visually appealing and intuitive user interface for the stopwatch with the following elements:
