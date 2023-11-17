@@ -17,6 +17,8 @@
      
 # Tasks and Queues
 - in src/app/app.tsx
+- Tasks are generated randomly.
+- 3 Queues: pending, failed, completed.
 - Implement a queue to execute tasks within 5 secs.
 - The queue should be able to handle 100 tasks per second.
 
